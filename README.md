@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Heyo👋, welcome to the workshop! This guide will walk you through the installation of PyCharm + Python 3.8🐍, so that you'll be ready to go by the time the workshop begins! If you have any questions, comments, or concerns, feel free to reach out to me via email or discord 😃 (I don't bite😉)!
+Heyo👋, welcome to the workshop! This guide will provide some helpful info on the installation of PyCharm + Python 3.8🐍, so that you'll be ready to go by the time the workshop begins! If you have any questions, comments, or concerns, feel free to reach out to me via email or discord 😃 (I don't bite😉)!
 
 ## Downloading and Installing PyCharm IDE + Python 3
 
