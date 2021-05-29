@@ -17,6 +17,5 @@ In case you prefer a tutorial-style walkthrough, [this video](https://www.youtub
 
 ## Building the Bot
 
-I'll be walking you through the entire design process and the coding parts, so there's not much you need to do here lol.
-
+I'll be walking you through the entire design process and the coding parts, so there's not much you need to do here lol. If you want, you can clone this repo or just copy paste the code from the starter_code file into a new python file.
 
