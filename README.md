@@ -15,4 +15,8 @@ You can download the PyCharm installer from [here](https://www.jetbrains.com/pyc
 This is the [official JetBrains PyCharm installation guide](https://www.jetbrains.com/help/pycharm/installation-guide.html#standalone).
 In case you prefer a tutorial-style walkthrough, [this video](https://www.youtube.com/watch?v=SZUNUB6nz3g) does a great job of walking through the installation process for Windows. For Mac users, check out [this video](https://www.youtube.com/watch?v=K5cAu-Wro3M).
 
+## Building the Bot
+
+I'll be walking you through the entire design process and the coding parts, so there's not much you need to do here lol.
+
 
