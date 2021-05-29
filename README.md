@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Heyo👋, welcome to the workshop! This brief guide will provide some helpful info on the installation of PyCharm + Python 3.8🐍, so that you'll be ready to go by the time the workshop begins! If you have any questions, comments, or concerns, feel free to reach out to me via email or discord 😃 (I don't bite😉)!
+Heyo👋, welcome to the workshop! In case you haven't figured out already (lol), this workshop will be teaching you the basics of Python automation by creating a bot to play Piano Tiles! (It's nothing fancy, just learning how to control a mouse + keyboard, and taking some screenshots. Honestly, if you know what a while loop is you're already halfway there.) This brief guide will provide some helpful info on the installation of PyCharm + Python 3.8🐍, so that you'll be ready to go by the time the workshop begins! If you have any questions, comments, or concerns, feel free to reach out to me via email or discord 😃 (I don't bite😉)!
 
 ## Downloading and Installing PyCharm IDE + Python 3
 
@@ -13,5 +13,4 @@ You can download the PyCharm installer from [here](https://www.jetbrains.com/pyc
 This is the [official JetBrains PyCharm installation guide](https://www.jetbrains.com/help/pycharm/installation-guide.html#standalone).
 In case you prefer a tutorial-style walkthrough, [this video](https://www.youtube.com/watch?v=SZUNUB6nz3g) does a great job of walking through the installation process for Windows. For Mac users, check out [this video](https://www.youtube.com/watch?v=K5cAu-Wro3M).
 
-## About the workshop
-In case you haven't figured out already (lol), this workshop will be teaching you the basics of Python automation by creating a bot to play Piano Tiles! (It's nothing fancy, just learning how to control a mouse + keyboard, and taking some screenshots. Honestly, if you know what a while loop is you're already halfway there.)
+
