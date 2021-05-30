@@ -1,5 +1,9 @@
 # Piano-Tiles-Bot
 
+# NOTICE
+
+The workshop is now over, if you didn't make it, a recording is available [here](https://drive.google.com/file/d/1tA3ly7beOh7Rjz701zd8dTcFuR_OIQ0o/view?usp=sharing). The final code will also be posted shortly. For those of you that attended, please fill [this short feedback form](http://bit.ly/S21FeedbackForm) if you have the time. Thanks!
+
 ## Introduction
 
 Heyo👋, welcome to the workshop! In case you haven't figured out already (lol), this workshop will be teaching you the basics of Python automation by creating a bot to play Piano Tiles! (It's nothing fancy, just learning how to control a mouse + keyboard, and taking some screenshots. Honestly, if you know what a while loop is you're already halfway there.) 
