@@ -1,6 +1,6 @@
 # Piano-Tiles-Bot
 
-# NOTICE
+## NOTICE
 
 The workshop is now over 😞, if you didn't make it, a recording is available [here](https://drive.google.com/file/d/1tA3ly7beOh7Rjz701zd8dTcFuR_OIQ0o/view?usp=sharing). The final code will also be posted shortly. For those of you that attended, please fill [this short feedback form](http://bit.ly/S21FeedbackForm) if you have the time. Thanks😄!
 
